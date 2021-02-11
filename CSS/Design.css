@@ -1,0 +1,55 @@
+/*SELECTOR*/
+.titulo_1{
+    color: white; /*Cambia de color el texto*/
+    text-align: center; /*Centra el texto*/
+    font-size: 40px; /*Cambia el tamaño del texto*/
+    font-family: sans-serif; /*Cambia la fuente del texto*/
+    background-color: black;
+}
+
+.img_fruta{
+    width: 200px;
+    height: 200px;
+    border: 5px double blue;
+    border-radius: 30px;
+}
+
+.parrafo_1{
+    color: darkslategray;
+    text-align: justify;
+    font-size: 20px; 
+    font-family: fantasy;
+}
+
+.lista_1{
+    color: darkslategray;
+    font-size: 20px;
+    font-family: fantasy;
+}
+
+.lista_2{
+    color: darkslategray;
+    font-size: 20px;
+    font-family: fantasy;
+}
+
+.tabla_1{
+    border-color: black;
+    text-align: center;
+    background-color: lightgreen;
+    font-size: 15px;
+    font-family: inherit;
+}
+
+.fila_1{
+     color: white;
+    font-family: monospace;
+    font-size: 25px;
+    background-color: cornflowerblue;
+}
+
+.
+
+
+
+
